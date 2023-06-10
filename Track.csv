@@ -3410,12 +3410,12 @@ TrackId,Name,AlbumId,MediaTypeId,GenreId,Composer,Milliseconds,Bytes,UnitPrice
 3409,"Suite for Solo Cello No. 1 in G Major, BWV 1007: I. Prélude",278,2,24,"Johann Sebastian Bach",143288,2315495,0.99
 3410,"The Messiah: Behold, I Tell You a Mystery... The Trumpet Shall Sound",279,2,24,"George Frideric Handel",582029,9553140,0.99
 3411,"Solomon HWV 67: The Arrival of the Queen of Sheba",280,2,24,"George Frideric Handel",197135,3247914,0.99
-3412,""Eine Kleine Nachtmusik" Serenade In G, K. 525: I. Allegro",281,2,24,"Wolfgang Amadeus Mozart",348971,5760129,0.99
-3413,"Concerto for Clarinet in A Major, K. 622: II. Adagio",282,2,24,"Wolfgang Amadeus Mozart",394482,6474980,0.99
+3412,"Eine Kleine Nachtmusik Serenade In G, K. 525: I. Allegro",281,2,24,"Wolfgang Amadeus Mozart",348971,5760129,0.99
+3413,"Concerto for Clarinet in A Major K. 622: II. Adagio",282,2,24,"Wolfgang Amadeus Mozart",394482,6474980,0.99
 3414,"Symphony No. 104 in D Major "London": IV. Finale: Spiritoso",283,4,24,"Franz Joseph Haydn",306687,10085867,0.99
 3415,"Symphony No.5 in C Minor: I. Allegro con brio",284,2,24,"Ludwig van Beethoven",392462,6419730,0.99
 3416,"Ave Maria",285,2,24,"Franz Schubert",338243,5605648,0.99
-3417,"Nabucco: Chorus, "Va, Pensiero, Sull'ali Dorate"",286,2,24,"Giuseppe Verdi",274504,4498583,0.99
+3417,"Nabucco: Chorus, Va, Pensiero, Sull'ali Dorate"",286,2,24,"Giuseppe Verdi",274504,4498583,0.99
 3418,"Die Walküre: The Ride of the Valkyries",287,2,24,"Richard Wagner",189008,3114209,0.99
 3419,"Requiem, Op.48: 4. Pie Jesu",288,2,24,"Gabriel Fauré",258924,4314850,0.99
 3420,"The Nutcracker, Op. 71a, Act II: Scene 14: Pas de deux: Dance of the Prince & the Sugar-Plum Fairy",289,2,24,"Peter Ilyich Tchaikovsky",304226,5184289,0.99
@@ -3429,7 +3429,7 @@ TrackId,Name,AlbumId,MediaTypeId,GenreId,Composer,Milliseconds,Bytes,UnitPrice
 3428,"Branch Closing",251,3,22,NULL,1814855,360331351,1.99
 3429,"The Return",251,3,22,NULL,1705080,343877320,1.99
 3430,"Toccata and Fugue in D Minor, BWV 565: I. Toccata",297,2,24,"Johann Sebastian Bach",153901,2649938,0.99
-3431,"Symphony No.1 in D Major, Op.25 "Classical", Allegro Con Brio",298,2,24,"Sergei Prokofiev",254001,4195542,0.99
+3431,"Symphony No.1 in D Major, Op.25 Classical, Allegro Con Brio",298,2,24,"Sergei Prokofiev",254001,4195542,0.99
 3432,"Scheherazade, Op. 35: I. The Sea and Sindbad's Ship",299,2,24,"Nikolai Rimsky-Korsakov",545203,8916313,0.99
 3433,"Concerto No.2 in F Major, BWV1047, I. Allegro",300,2,24,"Johann Sebastian Bach",307244,5064553,0.99
 3434,"Concerto for Piano No. 2 in F Minor, Op. 21: II. Larghetto",301,2,24,"Frédéric Chopin",560342,9160082,0.99
@@ -3473,9 +3473,9 @@ TrackId,Name,AlbumId,MediaTypeId,GenreId,Composer,Milliseconds,Bytes,UnitPrice
 3472,"In My Bed",322,2,9,"Salaam Remi",315960,5211774,0.99
 3473,"Take the Box",322,2,9,"Luke Smith",199160,3281526,0.99
 3474,"October Song",322,2,9,"Matt Rowe & Stefan Skarbek",204846,3358125,0.99
-3475,"What Is It About Men",322,2,9,"Delroy "Chris" Cooper, Donovan Jackson, Earl Chinna Smith, Felix Howard, Gordon Williams, Luke Smith, Paul Watson & Wilburn Squiddley Cole",209573,3426106,0.99
+3475,"What Is It About Men",322,2,9,"Delroy 'Chris' Cooper, Donovan Jackson, Earl Chinna Smith, Felix Howard, Gordon Williams, Luke Smith, Paul Watson & Wilburn Squiddley Cole",209573,3426106,0.99
 3476,"Help Yourself",322,2,9,"Freddy James, Jimmy hogarth & Larry Stock",300884,5029266,0.99
-3477,"Amy Amy Amy (Outro)",322,2,9,"Astor Campbell, Delroy "Chris" Cooper, Donovan Jackson, Dorothy Fields, Earl Chinna Smith, Felix Howard, Gordon Williams, James Moody, Jimmy McHugh, Matt Rowe, Salaam Remi & Stefan Skarbek",663426,10564704,0.99
+3477,"Amy Amy Amy (Outro)",322,2,9,"Astor Campbell, Delroy 'Chris' Cooper, Donovan Jackson, Dorothy Fields, Earl Chinna Smith, Felix Howard, Gordon Williams, James Moody, Jimmy McHugh, Matt Rowe, Salaam Remi & Stefan Skarbek",663426,10564704,0.99
 3478,Slowness,323,2,23,NULL,215386,3644793,0.99
 3479,"Prometheus Overture, Op. 43",324,4,24,"Ludwig van Beethoven",339567,10887931,0.99
 3480,"Sonata for Solo Violin: IV: Presto",325,4,24,"Béla Bartók",299350,9785346,0.99
@@ -3486,7 +3486,7 @@ TrackId,Name,AlbumId,MediaTypeId,GenreId,Composer,Milliseconds,Bytes,UnitPrice
 3485,"Symphony No. 3 Op. 36 for Orchestra and Soprano "Symfonia Piesni Zalosnych"  Lento E Largo - Tranquillissimo",330,2,24,"Henryk Górecki",567494,9273123,0.99
 3486,"Act IV, Symphony",331,2,24,"Henry Purcell",364296,5987695,0.99
 3487,"3 Gymnopédies: No.1 - Lent Et Grave, No.3 - Lent Et Douloureux",332,2,24,"Erik Satie",385506,6458501,0.99
-3488,"Music for the Funeral of Queen Mary: VI. "Thou Knowest, Lord, the Secrets of Our Hearts"",333,2,24,"Henry Purcell",142081,2365930,0.99
+3488,"Music for the Funeral of Queen Mary: VI. Thou Knowest, Lord, the Secrets of Our Hearts",333,2,24,"Henry Purcell",142081,2365930,0.99
 3489,"Symphony No. 2: III. Allegro vivace",334,2,24,"Kurt Weill",376510,6129146,0.99
 3490,"Partita in E Major, BWV 1006A: I. Prelude",335,2,24,"Johann Sebastian Bach",285673,4744929,0.99
 3491,"Le Sacre Du Printemps: I.iv. Spring Rounds",336,2,24,"Igor Stravinsky",234746,4072205,0.99
